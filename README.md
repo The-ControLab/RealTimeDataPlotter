@@ -22,7 +22,7 @@ How to Contribute:
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 # License:
-This project is licensed under the MIT License.
+This project is licensed under the GNU GPLv3 License.
 
 # Contact:
 Please contact the project maintainers with questions or for support.
