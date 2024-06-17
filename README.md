@@ -15,10 +15,11 @@ Run the Script: Execute the provided Python script to start visualizing data in 
 
 # Dependencies:
 
-Python 3.x
-Matplotlib
-PySerial
-How to Contribute:
+- Python 3.x
+- Matplotlib
+- PySerial
+ 
+# How to Contribute:
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 # License:
